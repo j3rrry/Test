@@ -1,5 +1,7 @@
-<a herf="naver.com" target='_blank'>naver</a>
-<a herf="naver.com" target="_blank">naver</a>
+<a herf="http://naver.com" target='_blank'>naver</a>  
+<a herf="naver.com" target='_blank'>naver</a>  
+<a herf="http://naver.com" target="_blank">naver</a>  
+<a herf="naver.com" target="_blank">naver</a>  
 [naver_blank](http://naver.com){target="_blank")  
 [http://naver](http://naver.com)  
 [naver](naver.com)  
