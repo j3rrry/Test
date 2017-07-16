@@ -1,3 +1,4 @@
+['naver'](http://www.naver.com/){: target="_blank" }  
 <a href="http://naver.com" target='_blank'>naver</a>  
 <a href="naver.com" target='_blank'>naver</a>  
 <a href="http://naver.com" target="_blank">naver</a>  
