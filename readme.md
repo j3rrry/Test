@@ -1,4 +1,10 @@
 ```php
+line	#* E I O	op		fetch	ext	return	operands
+-------------------------------------------------------
+INIT_FCALL		'define'
+SEND_VAL		'ililil'
+SEND_VAL		'123456'
+DO_ICALL
 CONCAT ~1 ~2, ~3
 ```
 ```
