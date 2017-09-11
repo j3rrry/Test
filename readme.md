@@ -1,5 +1,6 @@
 ```php
 define('lili','1234');
+define('ilil','5678');
 ```
 ```php
 line	#* E I O	op		fetch	ext	return	operands
