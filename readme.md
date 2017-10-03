@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	main()
 ```
 ```
-a
+<span style="color:red">a</span>
 b
 c
 
