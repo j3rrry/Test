@@ -17,12 +17,12 @@ def main():
 if __name__ == '__main__':
 	main()
 ```
-```
+<code>
 <a>a</a>
 b
 c
 
-```
+</code>
 hello
 1. 123
 2. 234
