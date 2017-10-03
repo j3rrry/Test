@@ -3,6 +3,7 @@
 <li> 입력을 받고</li>
 <li> *** stack smashing detected ***: ./ltime terminated</li>
 </ol>
+
 ```
 #0
 ```
