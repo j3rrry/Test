@@ -1,4 +1,4 @@
-```
+```asm
 # abcd
 .L2:
 	mov	$.L2, %edi
