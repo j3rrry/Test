@@ -18,10 +18,10 @@ if __name__ == '__main__':
 	main()
 ```
 <code>
-<a>a</a>
-b
-c
-
+<span style="color:red">a</span>  
+b  
+c  
+  
 </code>
 hello
 1. 123
