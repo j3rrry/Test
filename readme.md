@@ -1,3 +1,6 @@
+```
+#0
+```
 ```php
 define('lili','1234');
 define('ilil','5678');
