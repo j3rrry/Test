@@ -1,3 +1,8 @@
+```assembly
+# abcd
+.L2:
+	mov	$.L2, %edi
+```
 ```asm
 # abcd
 .L2:
