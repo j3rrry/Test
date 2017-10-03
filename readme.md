@@ -18,7 +18,7 @@ if __name__ == '__main__':
 	main()
 ```
 ```
-<body>a</body>
+<a>a</a>
 b
 c
 
