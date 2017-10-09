@@ -1,4 +1,4 @@
-[](https://i.imgur.com/kc0dj7L.jpg)
+![](https://i.imgur.com/kc0dj7L.jpg)
 내가 알아낸 것
 ===
 `code`  
