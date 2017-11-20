@@ -1,4 +1,4 @@
-```android
+```java
 if (MainActivity.this.id.getText().toString().equals("j3rrry"))
 {
 	Intent intent = new Intent(MainActivity.this, SubActivity.class);
