@@ -1,3 +1,6 @@
+
+`code의 syntx highlight 중 android 는 없는 듯`  
+면  
 ```java
 if (MainActivity.this.id.getText().toString().equals("j3rrry"))
 {
