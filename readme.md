@@ -1,8 +1,3 @@
-오른쪽 정렬 right align
-<div style="text-align: right">오른쪽 정렬</div>
-```
-<div style="text-align: right">text</div>
-```
 ```css
 body{
 	background-image: url(a/b/c/d.png);
