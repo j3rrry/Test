@@ -1,4 +1,9 @@
-
+```css
+body{
+	background-image: url(a/b/c/d.png);
+	background-size: cover;
+}
+```
 `code의 syntx highlight 중 android 는 없는 듯`  
 면
 ```java
