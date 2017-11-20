@@ -1,3 +1,10 @@
+```android
+if (MainActivity.this.id.getText().toString().equals("j3rrry"))
+{
+	Intent intent = new Intent(MainActivity.this, SubActivity.class);
+}
+Toast.makeText(MainActivity.this, "잘 생 김.", 0).show();
+```
 ![a.py](./a.py)  
 [a.py](./a.py)  
 ```a.py
